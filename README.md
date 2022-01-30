@@ -1,33 +1,31 @@
-# rss-reader
+# README.MD
+Lector de noticias RSS
 
-##Contenido
 
-##INSTALACIÓN desde 0.
+## Content
+This proyect has two branches: develop1 and develop2. **develop1** contains the tests of the repositories and **develop2** contains the test of the use cases.
 
-1- Instalar gestor de paquetes Node en su última versión sino está instalado
+## Demo
+If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://anabelisa.co/tips-para-hacer-un-buen-readme-md/)
 
-	npm install -g npm@latest
-	
-	Nota: -g es para que se instale de forma global y pueda ejecutarse desde cualquier lugar
+## How to clone
+If you have special requirements, you have to list it step by step.
+* This is the first step
+* Then you have to do this
+* Finally do this
 
-2- Instalar interprete de consola para entre otras cosas sino lo tenemos instalado
+Markdown has enumation and nested lists.
 
-	npm install -g create-react-app
+## Installation
+To install and run this proyect just type and execute
+```bash
+npm install
+```
+## Preview
+Insert here an image of the preview if your project has one. The image can be into the project, you have to indicate the route and look like this.
 
-3º Creamos el proyecto:
+![](/preview.jpg)
 
-	create-react-app rss-reader
+### Notes
+If you want to learn all about markdown i recommend you visit the site [markdown.es](https://markdown.es/sintaxis-markdown/)
 
-4º Instalar bulma, para algunos estilos, dentro de la carpeta rss-reader.
-
-	npm install bulma
-	
-5º Instalar react-router-dom, para hacer SPA,  dentro de la carpeta rss-reader. Necesaria la versión 5.
-
-   npm install react-router-dom@5.0.0
-
-Finalmente para arrancar y poner en marcha el proyecto:
-
-	npm start
-	
-	##Notas
