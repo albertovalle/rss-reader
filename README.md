@@ -1,6 +1,8 @@
 # rss-reader
 
-INSTALACIÓN desde 0.
+
+
+#INSTALACIÓN desde 0.
 
 1- Instalar gestor de paquetes Node en su última versión sino está instalado
 
