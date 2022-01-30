@@ -19,11 +19,11 @@ Lector de noticias RSS mediante el cúal, se escoge una rss para mostrar sus not
 
 	create-react-app rss-reader
 
-· Instalar bulma, dentro de la carpeta rss-reader, para algunos estilos,
+· Instalar bulma, dentro de la carpeta rss-reader, para algunos estilos básicos.
 
 	npm install bulma
 	
-· Instalar la versión 5 de la libreria react-router-dom, dentro de la carpeta rss-reader, para hacer la navegaciíb.
+· Instalar la versión 5 de la libreria react-router-dom, dentro de la carpeta rss-reader, para hacer la navegación.
 
    	npm install react-router-dom@5.0.0
 
