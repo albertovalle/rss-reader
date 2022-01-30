@@ -2,13 +2,13 @@ import React, { Component } from 'react'
 
 export class SendForm extends Component {
     /* En inputRss iria lo que le quiero enviar por elemento onChange de un input, que tal y como lo he dejado no voy a usarlo
-       pasandole el metodo(_handleChange) que se ejecuta cada vez que hay un cambio de opción
+       pasandole metodo(_handleChange) que se ejecuta cada vez que hay un cambio de opción
     */
     /*  state = {
             inputRss: ''
         }
     */
-    //Se uysa para guardar en el state del componente el texto que queremos enviar por el input
+    //Se usa para guardar en el state del componente el texto que queremos enviar por el input
     /*
     _handleChange= (e) => {
         this.setState({ 
@@ -17,9 +17,9 @@ export class SendForm extends Component {
     }
     */ 
     /*
-        Quería haber añadido la funcionalidad de poder insertar por pantalla url de rss y luego poder listarlo, seleccionando entre varios
+        Quería haber añadido la funcionalidad de poder insertar por pantalla la url de rss y luego poder listarlo, seleccionando entre varios
         rss pero no me ha dado tiempo.
-        Lo he dejado con un rss de as aunque he visto que no todos los rss son iguales y la forma de extraer la imagen no es igual para todos.  
+        Lo he dejado con un rss a fuego, aunque he visto que no todos los rss son iguales y la forma de extraer la imagen no es igual para todos.  
     */  
     _handleSubmit = async e => {
         //evitar que se ejecute el evento nativo que hace el navegador al enviar el formulario
