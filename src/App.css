@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.Form-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.List {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.List-item {
+  margin-bottom: 24px;
+  width: 48%;
+}
+
+.module {
+  width: 650px;
+  margin: 0 0 1em 0;
+  overflow: hidden;
+}
+
+.module p {
+  margin: 0;
+}
+
+.line-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.img-center {
+  margin: 10px auto 10px;
+  display: block;
+  width: 30%;
+}
