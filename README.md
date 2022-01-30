@@ -31,7 +31,6 @@ Lector de noticias RSS
 
 	npm start
 	
-	##Notas
 ## Preview
 
 ![](/preview.jpg)
