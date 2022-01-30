@@ -1,5 +1,5 @@
 # README.MD
-Lector de noticias RSS mediante el cúal, se escoge una rss para mostrar sus noticias Pudiendose ver el detalle de las mismas. En este momento sólo hay un rss que es de AS.
+Lector de noticias RSS mediante el cúal, se escoge una rss para mostrar sus noticias pudiendose ver el detalle de las mismas. En este momento sólo hay un rss que es de AS.
 
 ## Demo
 
