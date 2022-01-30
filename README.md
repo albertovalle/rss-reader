@@ -23,7 +23,7 @@ Lector de noticias RSS
 
 	npm install bulma
 	
-· Instalar react-router-dom, para hacer SPA, dentro de la carpeta rss-reader. Instalar la versión 5.
+· Instalar la libreria react-router-dom, para hacer SPA, dentro de la carpeta rss-reader. Instalar la versión 5.
 
    	npm install react-router-dom@5.0.0
 
