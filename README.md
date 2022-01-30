@@ -1,5 +1,5 @@
 # README.MD
-Lector de noticias RSS
+Lector de noticias RSS mediante el cúal, se escoge una rss para mostrar sus noticias Pudiendose ver el detalle de las mismas. En este momento sólo hay un rss que es de AS.
 
 ## Demo
 
@@ -38,7 +38,3 @@ Lector de noticias RSS
 ### Resumen
 
 Se instala el gesto de paquetes npm, la biblioteca create-react-app para crea de forma sencilla un proyecto pre-configurado con todo lo necesario para usarse, se crea el proyecto y se instala el framework de estilos bulma usado para dotar de unos estilos básicos a las fichas de noticias y la libreria react-router-dom para necesaria para crear la navegación de nuestra Single Page Application. (SPA). También usamos la biblioteca prop-types, que viene dentro del paquete de React, sino se instala con el comando: npm install prop-types.
-
-
-
-He usado como patrón creacional Prototype
