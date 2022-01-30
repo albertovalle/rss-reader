@@ -25,7 +25,7 @@ Lector de noticias RSS
 	
 · Instalar react-router-dom, para hacer SPA,  dentro de la carpeta rss-reader. Necesaria la versión 5.
 
-   npm install react-router-dom@5.0.0
+   	npm install react-router-dom@5.0.0
 
 · Finalmente para arrancar y poner en marcha el proyecto:
 
