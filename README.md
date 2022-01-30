@@ -1,4 +1,4 @@
-# rss-readerf
+# rss-reader
 
 INSTALACIÓN desde 0.
 
