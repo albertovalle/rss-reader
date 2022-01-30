@@ -15,7 +15,7 @@ Lector de noticias RSS mediante el cúal, se escoge una rss para mostrar sus not
 
 	npm install -g create-react-app
 
-· Creamos el proyecto:
+· Creamos el proyecto rss-reader y después descargamos dentro los los archivos incluidos en este repositorio:
 
 	create-react-app rss-reader
 
@@ -27,7 +27,7 @@ Lector de noticias RSS mediante el cúal, se escoge una rss para mostrar sus not
 
    	npm install react-router-dom@5.0.0
 
-· Finalmente para arrancar y poner en marcha el proyecto:
+· Finalmente para arrancar con los archivos incluidos en este repositorio, podríamos en marcha el proyecto listo para listar las noticias:
 
 	npm start
 	
