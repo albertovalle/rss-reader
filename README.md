@@ -2,7 +2,7 @@
 Lector de noticias RSS mediante el cúal, se escoge una rss para mostrar sus noticias pudiendose ver el detalle de las mismas. En este momento sólo hay un rss que es de AS.
 
 ## Demo
-
+He creado una demo en video [Demo](https://github.com/albertovalle/rss-reader/blob/main/demo.mp4/)
 
 ## Installation
 · Instalar gestor de paquetes Node en su última versión sino está instalado
