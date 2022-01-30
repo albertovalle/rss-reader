@@ -37,6 +37,6 @@ He creado una demo de como debería verse en video en el siguiente archivo rar [
 
 ### Resumen
 
-Se instala el gesto de paquetes npm. También la biblioteca externa create-react-app necesaria para crear de forma sencilla un proyecto pre-configurado con todo lo ilsto para usarse, se crea el proyecto y se instala el framework de estilos bulma usado para dotar de unos estilos básicos a las fichas de noticias y por último instalamos la libreria react-router-dom que he necesitado para crear la navegación de nuestra Single Page Application (SPA). También usamos la biblioteca prop-types, que viene dentro del paquete de React, sino se instala con el comando: npm install prop-types.
+Se instala el gesto de paquetes npm. También la biblioteca externa create-react-app necesaria para crear de forma sencilla un proyecto pre-configurado con todo lo listo para usarse, se crea el proyecto y se instala el framework de estilos bulm,a usado para dotar de unos estilos básicos a las fichas de noticias. Por último, instalamos la libreria react-router-dom, que he necesitado para crear la navegación de nuestra Single Page Application (SPA). También usamos la biblioteca prop-types, que viene dentro del paquete de React. 
 
 Nota: Faltaría crear el componente para añadir diferentes rss y en el combo principal, poder escogerlos para poder listar sus noticias.
